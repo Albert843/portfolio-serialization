@@ -1,0 +1,18 @@
+<ArrayList>
+  <item>
+    <title>Посмотреть лекцию</title>
+    <done>false</done>
+  </item>
+  <item>
+    <title>Приготовить ужин</title>
+    <done>false</done>
+  </item>
+  <item>
+    <title>Сходить в магазин</title>
+    <done>false</done>
+  </item>
+  <item>
+    <title>going</title>
+    <done>true</done>
+  </item>
+</ArrayList>
